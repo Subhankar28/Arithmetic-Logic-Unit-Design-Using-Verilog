@@ -1,1 +1,1 @@
-# Arithmetic-Logic-Unit-Design-Using-Verilog
+# Arithmetic-Logic-Unit (ALU)-Design-Using-Verilog
